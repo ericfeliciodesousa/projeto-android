@@ -38,7 +38,7 @@ h1 > a {
 }
 header > p {
     text-align: center;
-    font-size: 1em;
+    font-size: 0.8em;
     margin-top: 30px;
 }
 nav {
@@ -46,9 +46,9 @@ nav {
     background-color: var(--color00);
 }
 nav > a {
-    padding: 20px;
+    padding: 10px;
     font-weight: bold;
-    font-size: 0.8em;
+    font-size: 0.7em;
     background-color: var(--color00);
     font-family: var(--fonte-principal);
     text-decoration: none;
@@ -65,7 +65,7 @@ body {
 main {
     margin:auto;
     text-align: center;
-    min-width:300px;
+    min-width:280px;
     max-width:800px;
     background-color: white;
     padding: 20px;
@@ -92,6 +92,9 @@ main p {
     padding-bottom: 15px;
     text-indent: 20px;
     line-height: 1.5em;
+}
+picture {
+    margin: auto;
 }
 div.video {
     background-color: var(--color02);
