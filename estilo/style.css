@@ -136,8 +136,8 @@ aside > p {
 aside > ul {
     list-style-type: '\2714';
     columns: 2;
-    padding-left: 8%;
-    font-size: 1em;
+    padding-left: 6%;
+    font-size: 0.8em;
 }
 
 footer {
